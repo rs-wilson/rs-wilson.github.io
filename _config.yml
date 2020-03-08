@@ -18,11 +18,11 @@ description              : >-
   * Tabletop Everything!
 url                      : "https://mysteriouslever.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/rs-wilson" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "rs-wilson/rs-wilson.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/catch_it.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/ml_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -60,8 +60,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -79,19 +79,22 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : mysteriouslever
+  username               : "mysteriouslever"
 facebook:
-  username               : themysteriouslever
+  username               : "themysteriouslever"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : Ryan S. Wilson # If the user or organization name differs from the site's name
+  type                   : "Organization" # Person or Organization (defaults to Person)
+  name                   : "The Mysterious Lever" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-   - https://www.linkedin.com/in/rs-wilson/
+  - "https://twitter.com/mysteriouslever"
+  - "https://facebook.com/themysteriouslever"
+  - "https://instagram.com/themysteriouslever"
+  - "https://mysteriouslever.blogspot.com"
 
 # Analytics
 analytics:
@@ -104,38 +107,31 @@ analytics:
 # Site Author
 author:
   name             : "Ryan S. Wilson"
-  avatar           : # TODO path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jack.png"
   bio              : "Multiclassed: Dev/Design/Lead"
-  location         : "Grand Rapids, MI"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:themyseriouslevel@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://rs-wilson.github.com/"
+      url: "https://github.com/rs-wilson"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rs-wilson/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/mysteriouslever"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://facebook.com/themysteriouslever"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/themysteriouslever"
 
 
 # Reading Files
@@ -205,8 +201,8 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /blog/page:num/
+timezone: "America/Detroit" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -262,6 +258,8 @@ compress_html:
   ignore:
     envs: development
 
+# Fixes local hosting github warning
+github: [metadata]
 
 # Defaults
 defaults:
@@ -272,7 +270,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: false
       share: true
       related: true
+
+# Additional sidebar blocks
+sidebar:
+  - title: "Games"
+    image: ""
+    image_alt: "TODO"
+    text: "Hello World"
+  - title: "Foo"
+    text: "bar"
