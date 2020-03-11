@@ -19,7 +19,7 @@ description              : >-
 url                      : "https://mysteriouslever.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rs-wilson/rs-wilson.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/catch_it.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "favicon.ico" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/ml_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -274,12 +274,23 @@ defaults:
       comments: false
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
 # Additional sidebar blocks
-sidebar:
-  - title: "Games"
-    image: ""
-    image_alt: "TODO"
-    text: "Hello World"
-  - title: "Foo"
-    text: "bar"
+#sidebar:
+  #- title: "Games"
+  #  image: ""
+  #  image_alt: "TODO"
+  #  text: "Hello World"
+  #- title: "Foo"
+  #  text: "bar"
