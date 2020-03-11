@@ -5,6 +5,6 @@ main:
   #  url: /tags
 
   - title: "About Me"
-    url: "/about-me/"
+    url: "/about-me"
   - title: "Blog"
-    url: "/blog/"
+    url: "/blog"
