@@ -1,6 +1,6 @@
 ---
 title: "The Mysterious Lever Puller"
-permalink: /about-me/
+permalink: /about/
 layout: single
 ---
 

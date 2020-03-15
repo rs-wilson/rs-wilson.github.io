@@ -1,7 +1,25 @@
 main:
-  - title: "About Me"
-    url: "/about-me"
-  - title: "RPGs"
-    url: "/rpgs"
+  - title: "Games"
+    url: "/games"
+  - title: "Vitality"
+    url: "/vitality"
   - title: "Blog"
     url: "/blog"
+  - title: "About"
+    url: "/about"
+
+games_nav:
+  - title: "Tabletop Prototypes"
+    children:
+      - title: "Archdruid"
+        url: "https://drive.google.com/file/d/1Fy0BB05uV7QyhGVbcp_b9eURQWbR-XQE/view"
+      - title: "Pocket Ships"
+        url: "https://docs.google.com/document/d/1Ceg5QEPDz966X8FhtqUvPT5HsvUDsxpNBNMj5Pr5HxY/edit?usp=sharing"
+  - title: "Tabletop RPGs"
+    children:
+      - title: "Super Mega Robot Friends!"
+        url: "https://docs.google.com/document/d/1qSADVIii12XD68HrQIpYlPlGhWdqbTxhpivg0M8chkw/edit?usp=sharing"
+      - title: "South of West"
+        url: "https://docs.google.com/document/d/1LBfqDMV0RJDw3J1FSjEvdijDj-whofiFYyjLwfoVwfk/edit?usp=sharing"
+      - title: "Hostargo"
+        url: "https://docs.google.com/document/d/1wq_7NfL8TqmlU-XkRmGhMqxeM1OJgu1plZb5UEipLGg/edit?usp=sharing"
