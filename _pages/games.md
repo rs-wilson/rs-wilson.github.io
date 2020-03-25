@@ -3,6 +3,11 @@ title: "Games"
 permalink: /games
 layout: single
 author_profile: false
+excerpt: "Explore your imagination."
+header:
+  overlay_image: /assets/images/hostargo_cover_nologo.png
+  overlay_color: "#000"
+  overlay_filer: "0.5"
 sidebar:
   nav: games_nav
 ---
@@ -13,6 +18,7 @@ I am always tinkering with new game ideas, and would love feedback on my current
 Please check out what I have and feel free to print, play, share, and comment!
 
 ### [Pocket Ships](https://docs.google.com/document/d/1Ceg5QEPDz966X8FhtqUvPT5HsvUDsxpNBNMj5Pr5HxY/edit?usp=sharing)
+![Pocket Ships](/assets/images/pocketships.jpg)
 
 If you've got 15-20 minutes to kill, this game can fill it with a pleasant mix of variety-through-dice-rolling and tough, tactical decision making.
 

@@ -11,10 +11,10 @@ main:
 games_nav:
   - title: "Tabletop Prototypes"
     children:
-      - title: "Archdruid"
-        url: "https://drive.google.com/file/d/1Fy0BB05uV7QyhGVbcp_b9eURQWbR-XQE/view"
       - title: "Pocket Ships"
         url: "https://docs.google.com/document/d/1Ceg5QEPDz966X8FhtqUvPT5HsvUDsxpNBNMj5Pr5HxY/edit?usp=sharing"
+      - title: "Archdruid"
+        url: "https://drive.google.com/file/d/1Fy0BB05uV7QyhGVbcp_b9eURQWbR-XQE/view"
   - title: "Tabletop RPGs"
     children:
       - title: "Super Mega Robot Friends!"
