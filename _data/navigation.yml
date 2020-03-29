@@ -10,18 +10,18 @@ main:
 
 games_nav:
   - title: "Tabletop Prototypes"
-    url: "/games/#tabletop-prototypes"
+    url: "/games#tabletop-prototypes"
     children:
       - title: "Archdruid"
-        url: "/games/#archdruid"
+        url: "/games#archdruid"
       - title: "Pocket Ships"
-        url: "/games/#pocket-ships"
+        url: "/games#pocket-ships"
   - title: "Tabletop RPGs"
     url: "/games/#tabletop-rpgs"
     children:
       - title: "Super Mega Robot Friends!"
-        url: "/games/#super-mega-robot-friends"
+        url: "/games#super-mega-robot-friends"
       - title: "South of West"
-        url: "/games/#south-of-west"
+        url: "/games#south-of-west"
       - title: "Hostargo"
-        url: "/games/#hostargo"
+        url: "/games#hostargo"
