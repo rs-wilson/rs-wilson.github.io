@@ -10,16 +10,18 @@ main:
 
 games_nav:
   - title: "Tabletop Prototypes"
+    url: "/games/#tabletop-prototypes"
     children:
-      - title: "Pocket Ships"
-        url: "https://docs.google.com/document/d/1Ceg5QEPDz966X8FhtqUvPT5HsvUDsxpNBNMj5Pr5HxY/edit?usp=sharing"
       - title: "Archdruid"
-        url: "https://drive.google.com/file/d/1Fy0BB05uV7QyhGVbcp_b9eURQWbR-XQE/view"
+        url: "/games/#archdruid"
+      - title: "Pocket Ships"
+        url: "/games/#pocket-ships"
   - title: "Tabletop RPGs"
+    url: "/games/#tabletop-rpgs"
     children:
       - title: "Super Mega Robot Friends!"
-        url: "https://docs.google.com/document/d/1qSADVIii12XD68HrQIpYlPlGhWdqbTxhpivg0M8chkw/edit?usp=sharing"
+        url: "/games/#super-mega-robot-friends"
       - title: "South of West"
-        url: "https://docs.google.com/document/d/1LBfqDMV0RJDw3J1FSjEvdijDj-whofiFYyjLwfoVwfk/edit?usp=sharing"
+        url: "/games/#south-of-west"
       - title: "Hostargo"
-        url: "https://docs.google.com/document/d/1wq_7NfL8TqmlU-XkRmGhMqxeM1OJgu1plZb5UEipLGg/edit?usp=sharing"
+        url: "/games/#hostargo"
