@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/archdruid/starting_stuff.jpg
 ---
-[PnP Cards](https://drive.google.com/file/d/1Fy0BB05uV7QyhGVbcp_b9eURQWbR-XQE/view)
+[Rules Draft](https://docs.google.com/document/d/1M_kRuZzLqBoSR62A3iaFScUOGLsB_fxRjcY7U1IhwWw/) & [PnP Cards](https://drive.google.com/file/d/1Fy0BB05uV7QyhGVbcp_b9eURQWbR-XQE/view)
 
 {% include video id="qtcF7Iv1MqQ" provider="youtube" %}
 
