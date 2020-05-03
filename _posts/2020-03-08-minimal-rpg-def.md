@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "A Minimalist Definition of an RPG"
 date:   2020-03-08 00:00:01
 categories: game-design

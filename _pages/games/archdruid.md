@@ -1,8 +1,6 @@
 ---
 title: "Archdruid"
 permalink: /games/archdruid
-layout: single
-author_profile: true
 header:
   overlay_image: /assets/images/archdruid/starting_stuff.jpg
 ---

@@ -1,12 +1,9 @@
 ---
 title: "Games"
 permalink: /games
-author_profile: false
 excerpt: "Explore your imagination."
 header:
   overlay_image: /assets/images/hostargo_cover_nologo.png
-sidebar:
-  nav: games_nav
 ---
 
 ## Tabletop Prototypes

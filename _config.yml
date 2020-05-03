@@ -285,12 +285,5 @@ defaults:
       comments: false
       share: false
       related: false
-
-# Additional sidebar blocks
-#sidebar:
-  #- title: "Games"
-  #  image: ""
-  #  image_alt: "TODO"
-  #  text: "Hello World"
-  #- title: "Foo"
-  #  text: "bar"
+      toc: true
+      toc_sticky: true

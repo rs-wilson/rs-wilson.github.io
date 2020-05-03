@@ -1,11 +1,6 @@
 ---
 title: "Body"
 permalink: /vitality/body
-author_profile: false
-sidebar:
-  nav: vitality_nav
-toc: true
-toc_sticky: true
 ---
 
 My best advice is this: do research. Find information from unbiased sources who are truly looking to help.
@@ -30,9 +25,9 @@ Through the sections below, I hope to help you as much as I can with these diffi
 
 ## Fitness
 
-Exercise is tough. But without it, you _will not hit your goals_. Moving is your only defense against aging, and getting fit not only helps you lose the weight, its the necessary component to keeping it off.
+Exercise is tough. But without it, you _will not hit your goals_. Moving is your only defense against aging, and getting fit not only helps you lose the weight, it's the necessary component to keeping it off.
 
-Bonus: working out helps you cope with stress, sleep better, and enjoy resting more!
+Bonus: working out helps you cope with stress, sleep better, and more thoroughly enjoy resting!
 
 ### Burn it off: Run!
 How exactly do you lose fat? Through your [sweat and breath](https://health.clevelandclinic.org/where-does-body-fat-go-when-you-lose-weight/)! The more you _sweat_, the more you _breathe hard_, and the faster your _heart pumps_, the more weight you'll lose.
