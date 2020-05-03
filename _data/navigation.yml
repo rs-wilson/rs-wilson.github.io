@@ -25,3 +25,16 @@ games_nav:
         url: "/games#south-of-west"
       - title: "Hostargo"
         url: "/games#hostargo"
+  - title: "Design Musings"
+    url: "/games#design-musings"
+    children:
+      - title: "Blog"
+        url: "/blog/categories/#page-title"
+
+vitality_nav:
+  - title: "Body"
+    url: "/vitality/body"
+  - title: "Mind"
+    url: "/vitality/mind"
+  - title: "Soul"
+    url: "/vitality/soul"

@@ -1,7 +1,6 @@
 ---
 title: "Games"
 permalink: /games
-layout: single
 author_profile: false
 excerpt: "Explore your imagination."
 header:
@@ -45,3 +44,6 @@ SoW is a _West of Loathing_ inspired RPG that hacks the popular __PbtA__ engine 
 
 ### [Hostargo](https://docs.google.com/document/d/1wq_7NfL8TqmlU-XkRmGhMqxeM1OJgu1plZb5UEipLGg/)
 My white whale project of many years, I have poured my best ideas and hardest effort into forging the best TTRPG I can. And it's not finished. But, feel free to check out what I have, and follow me on our [blog](/blog) as I explore the last legs of this epic journey.
+
+## Design Musings
+I have been designing games as a hobbiest for over two decades. I've tried to record some of my best thoughts over at my [blog](/blog/categories/#game-design)!
