@@ -1,6 +1,6 @@
 ---
 title:  "GM-Player Trust in an Open Roll System"
-date:   2020-05-03 00:00:01
+date:   2015-12-08 00:00:01
 categories: game-design
 tags: rpg design
 ---

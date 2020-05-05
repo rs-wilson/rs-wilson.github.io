@@ -1,0 +1,56 @@
+---
+title:  "The Inverse Dice Theory"
+date:   2015-12-12 00:00:01
+categories: game-design
+tags: rpg design dice
+---
+
+The first step to creating a role playing game, for me, was to get a dice mechanic that I was happy with.&nbsp; Ignoring the actual 'game', you have to start with an engine, and to build an efficient engine you need to build it around a core.&nbsp; That core is what the players interact with the game the most: the dice.<br />
+<br />
+I, like many people before me, have been studying dice mechanics in tabletop games.<span style="color: red;"></span>&nbsp; There are plenty of <a href="https://www.reddit.com/r/rpg/comments/3iao7h/best_dice_mechanic_for_tabletop_rpgs/" rel="nofollow" target="_blank">random discussions</a> online where people toss around systems that they like or dislike. There are honest to goodness <a href="http://www.darkshire.net/jhkim/rpg/systemdesign/torben_rpg_dice.pdf" rel="nofollow" target="_blank">research papers</a> that try to analyze dice mechanics from an academic point of view.&nbsp; And of course, there are plenty of <a href="https://livingmythrpg.wordpress.com/2014/08/02/rationale-the-core-mechanic/" rel="nofollow" target="_blank">blog posts</a><span style="color: red;"> <span style="color: black;">-</span></span> just like this one - that explain what conclusion they came to when going down this thought path.<br />
+<br />
+The best sites that I've found try to define exactly what dice systems are trying to represent. &nbsp;My favorite of these definition sites is <a href="http://rpg-design.wikidot.com/evaluation" target="_blank">http://rpg-design.wikidot.com/evaluation</a>. It breaks down the different possible simulated variables, and why the "perfect system" would use one way over another.&nbsp; This site inspired me to create what I'm calling an "inverse dice" system.<br />
+<br />
+What dice systems today are missing is <i>reduced variance </i>as <i>character skill increases</i>. I define variance as the number of possible outcomes for a given roll.&nbsp; Reducing variance represents the character's ability to <i>perform more consistently</i>.&nbsp; This is important because as characters become more skilled, they want to not only to be able to succeed at higher level tasks, but also fail less often (and eventually not at all) at easier ones.&nbsp; This means both raising their maximum dice roll, and <a href="http://anydice.com/program/1cca" target="_blank">skewing their distribution</a> towards higher numbers.&nbsp; <br />
+<br />
+So what do current systems do for us? Single die systems have a flat distribution, and a static variance.&nbsp; Multi-dice systems have a bell curve, but still always the same variance.&nbsp; They do increase the 'average', but it doesn't actually <i>skew</i> the distribution at all.&nbsp; Dice pools are interesting, but actually have <i>more</i> variance as skill increases, since each die you add increases the number of possible outcomes.&nbsp; So far, no one is fitting our bill.<br />
+<br />
+One of the simplest yet most innovative dice mechanic in recent years has been D&amp;D 5e's "advantage/disadvantage" mechanic.&nbsp; By no means were they the first to think of this concept, but I will cover their true innovation in a future post.&nbsp; Really, what the <a href="http://anydice.com/program/b38">"roll two, take the higher"</a> mechanic does for us is skews the distribution in one direction.&nbsp; This gets us a lot closer to the "ideal" distribution described in the <a href="http://rpg-design.wikidot.com/evaluation" target="_blank">rpg-design wiki article</a> than a "normal" distribution does.&nbsp; But still, actual variance doesn't change, as there are still exactly 20 outcomes.&nbsp; In fact, this mechanic boils down to about a 20% increased chance of success (roughly +4).<br />
+<br />
+An unfortunate way of thinking about all of this is the fact that success &amp; failure do actually boil down to a simple % chance.&nbsp; No matter how wonderful a distribution or varied variance you have, the roll will always come down to % chance of success vs. % chance of failure.&nbsp; So do percentile systems have it right?&nbsp; No, but not because they are necessarily wrong. The problem with straight up percentile systems is that they are either <i>boring, too complicated</i>, or more typically, <i>both</i>.&nbsp; Boring, I say, because generic % ups and downs do not excite players. Most people don't want to know their exact chances.<br />
+<blockquote class="tr_bq">
+"Never tell me the odds!" - Han Solo</blockquote>
+But that's not all - percentile systems also have a hard <i>cap</i>.&nbsp; You can't get better than 100% chance of success.&nbsp; This is not great if you want a flexible game design, because when we want to know the chance of killing the rat vs. the dragon vs. the demigod, all of those numbers have to be relative.&nbsp; If you define your scope such that the dragon is a 99% difficulty enemy, what is the demigod?&nbsp; What these systems actually do is always compare skills and abilities against their target, and calculate %'s <i>during the game</i>.&nbsp; But that's <i>too complicated</i>.&nbsp; We don't want to calculate it ourselves - we want that information hidden away in our dice.<br />
+<br />
+Instead, we want to easily see our character's skills being represented relative to the presented challenge.&nbsp; The dice should <i>be </i>the formula; we shouldn't have to apply the formula in order to roll the dice. An ideal system would allow us to simulate the world around the dice with infinite relative numbers.&nbsp; A +1 knife vs. a +50 dinosaur vs. a&nbsp;+1000 meteor just isn't easy to do in percentiles.<br />
+<br />
+Yikes... we're almost running out of options! This is why I have not found a system that represents this ideal curve, and that some people have claimed it to be probably impossible.&nbsp; But we have a few things left to explore...<br />
+<br />
+One of the more intriguing systems I've encountered is <a href="https://www.peginc.com/product-category/savage-worlds/" target="_blank">Savage Worlds</a>.&nbsp; This system uses increasing dice sizes to represent character skill increasing.&nbsp; Unfortunately, this has the clear problem of increasing variance as skill increases, since larger dice sizes mean more possible outcomes on each roll.&nbsp; Yet, maximums are increasing, and most interestingly - even with 'flat' distributions per roll, the system actually has a really nice curve when compared against itself, with a property I also like: <a href="http://anydice.com/program/736f" target="_blank"><i>diminishing returns</i></a>.<br />
+<br />
+What really hooked me though, was the discussion around exploding dice in Savage Worlds.&nbsp; You "explode" when you hit the max number on a die, and you get to roll an extra die to add to your result.&nbsp; This leads to random wild rolls that can upset the game by having an unskilled character for some odd reason get really high results.&nbsp; Of course, while this is fun, a lot of people are turned off by it, because it doesn't make any sense.&nbsp; Why should someone with less skill be more likely to pull of something extreme?&nbsp; The system still works, of course, but with this explosion mechanic, the chances of success per die increase don't even <a href="http://anydice.com/program/7374" target="_blank">change that drastically</a>.<br />
+<br />
+I hope at this point you might be thinking what I'm thinking.&nbsp; Let's <i>inverse the Savage Worlds </i>system. Flip it on it's head.&nbsp; Lets do <i>smaller</i> dice sizes as skill increases.&nbsp; Let's make critical hits a '1', meaning that the smaller your dice size, the greater chance of a critical hit.&nbsp; Awesome! <br />
+<br />
+However, how do we actually make that work in a real system?<br />
+<blockquote class="tr_bq">
+Dice Mechanics 101: Comparison &gt; Addition &gt; Anything else. </blockquote>
+Basically, we don't want to ever have to multiply, divide, or subtract (or, obviously, anything more complicated).&nbsp; This unfortunately means we can't subtract, which would have been a very nice implementation to our shrinking dice (e.g. Challenge Rating [CR] - roll).<br />
+<br />
+To solve this, we need to think about what other tools we have to play with.&nbsp; Some systems like <a href="http://www.sjgames.com/gurps/" target="_blank">GURPS</a><span style="color: red;"></span> have a "roll under stat" system, which is neat because most systems have character stats and skills rolled into one ( i.e. stat + skill = roll bonus ). <br />
+<br />
+So in 'roll under' systems, success would be: <b>roll + skill + CR &lt; stat</b>. <br />
+<br />
+Wait a minute, this is perfect! Our problem with GURPS's mechanic is that it has a static variance roll of 3d6, so let's replace <b>roll + skill</b> with our shrinking dice mechanic.&nbsp; All of a sudden not only do we have a really simple equation:<b> </b><span style="color: black;"><b>roll + CR &lt; stat</b></span>, we have created a solution for the most elusive of dice mechanics: the reduced variance!<br />
+<br />
+<blockquote class="tr_bq">
+Final Solution:<br />
+<a href="http://anydice.com/program/7370" target="_blank"><b>Skill Roll + CR &lt; Stat</b></a>&nbsp; </blockquote>
+<br />
+But we're not done yet.&nbsp; One thing we don't have is a <a href="http://anydice.com/program/5" target="_blank"><i>normal distribution</i></a>.&nbsp; This is important because it reduces the chance of wild outcomes in regular systems - a way of mock-reducing variance, if you will.&nbsp; Or... is it?&nbsp; In fact, this brings us back around to how everything boils down to %'s.&nbsp; Remember, the only actual problem with % systems is that they tend to be uninteresting, and more importantly overly complex due to the need to calculate the chances as part of the game. So do we really need a bell curve? I don't think so!&nbsp; Our single-die system is actually just fine, because while alone it has a 'flat' distribution, when compared with itself over the different skill levels, we see that the reduced variance actually creates a nice <a href="http://anydice.com/program/7377" target="_blank">% skew</a> curve!<br />
+<br />
+Bonus points: the D&amp;D advantage/disadvantage is still very elegant, because again 'comparison' &gt; 'addition', so instead of adding +4, we get to roll an extra die and compare, which is actually more fun.&nbsp; So let's borrow (okay - steal outright) the advantage/disadvantage system, and we've got ourselves a <a href="http://anydice.com/program/7378" target="_blank">deliciously simple</a> and satisfying system<span style="color: red;">.</span><span style="color: red;"> </span><br />
+<br />
+Now, while I have searched fairly extensively, I have not encountered a system that uses inverse dice like this.&nbsp; If you know of such a system, please let me know! I am unlikely to be the first in any of these thoughts, so it would be of great help to see how someone else implemented it, so that I can learn from their success/failures.<br />
+## Update! (2020/05/05)
+Interested to see how this system worked at the table? See my updated post about [Inverse Dice in Practice](/blog/game-design/inverse-dice-practice/).

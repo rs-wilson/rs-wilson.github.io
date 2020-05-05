@@ -1,6 +1,6 @@
 ---
 title:  "A Minimalist Definition of an RPG"
-date:   2020-03-08 00:00:01
+date:   2019-11-15 00:00:01
 categories: game-design
 tags: rpg design
 ---
