@@ -2,7 +2,7 @@
 title:  "Inverse Dice in Practice"
 date:   2020-05-05 00:00:01
 categories: game-design
-tags: rpg design dice mechanics
+tags: rpg design dice mechanics theory
 ---
 Sometime within the last few years, while playing with Hostargo's [Inverse Dice Mechanic](/blog/game-design/inverse-dice-theory/), I realized it wasn't working as intended. Players were having trouble keeping the GM-called challenge rating (CR) in their head, and remembering to add that after their roll. After some inquiries and minor experiments, it turns out that doing all calculations up front is much easier, so that we can get back to the simple roll vs target number (TN). 
 
