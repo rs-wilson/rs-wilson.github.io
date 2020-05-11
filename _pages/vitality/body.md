@@ -128,11 +128,11 @@ Protein is essential, and a complete protein is one that has all 9 amino acids t
 
 Eating plants for protein is possible, but not easy. Luckily, even just a serving or two of animal meats are an easy checkbox for this category. The concern with eating animals, of course, is that [fish contain mercury](https://www.michigan.gov/documents/mdch/MDCH_EAT_SAFE_FISH_GUIDE_-_SOUTHWEST_MI_WEB_455360_7.pdf), and other meats are high in bad cholesterol. Luckily, there's a couple easy rules we can follow to keep ourselves rocking.
 
-* Eat a couple servings of protein each day.
 * Eat a couple servings of fish, such as salmon, a week.  
-* Limit eating lean white meat to a single meal each day.
-* Rarely if ever eat red meat or shellfish.
-* Always feel free to eat __soy__, as this is a complete protein source (tofu, edamame, soymilk).
+* Limit eating lean white meat (chicken, turkey) to a single meal each day.  
+* Rarely if ever eat red meat or shellfish (these are high in saturated fat and cholesterol).  
+* The easiest plant-based complete proteins to eat are __soy__ (e.g. tofu or edamame) and __quinoa__.
+* Get most of your protein through a variety of sources, such as beans, peanuts, lentils, and a [variety of other common vegetables](https://www.myfooddata.com/articles/vegetables-high-in-protein.php).  
 
 #### Vitamins and Minerals
 
