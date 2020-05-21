@@ -1,0 +1,18 @@
+---
+title:  "Priority Scheduling: Big Buckets"
+date:   2018-01-08 00:00:01
+categories: game-design
+tags: proactive progress
+---
+
+When you actively seek out to do the dishes instead of sitting down to work on your game, you know you've lost a little bit of something. But that something isn't necessarily drive or dedication. Instead, you might just be suffering from a lack of prioritization.<br />
+<br />
+Despite working in an <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">agile software environment</a>, using (and loving) great tools like <a href="https://trello.com/" target="_blank">Trello</a>, and generally considering myself a well organized person, I found myself not sure what to do next on Hostargo, even though I know of hundreds of tasks that could be done. This uncertainty lead to demotivation, and in the end I've been subconsciously avoiding my creation. Then I watched a great Ted Ed video on <a href="https://ed.ted.com/lessons/how-to-manage-your-time-more-effectively-according-to-machines-brian-christian" target="_blank">how we can learn from operating system scheduling</a>&nbsp;(I highly recommend you watch it! It's only 5 minutes!). It's one of those concepts that seems almost common sense once you think about it, but until you <i>have </i>thought about it, you don't actually implement in any fashion.<br />
+<br />
+The basic premise is that instead of having a giant list of todos, and always picking the highest priority one to work on, instead start by giving each task a generalized priority of just a few buckets of importance. In a simplistic agile world, we put tasks into one of three buckets: "must haves", "should haves", or "nice to haves". Applying this approach to game design I think hits two birds with one stone. First, you start by working on only the core of your game. If you prioritized correctly, no fluff or extra "goodies" should be in your game when you've moved onto your "should haves". This keeps the design simple and forces you to question each additional piece of work you're adding in, rather than trying to rip it out later. Secondly, this methodology prevents you from getting sidetracked or even lost in a sea of TODOs. This keeps you focused on making progress on the things that matter most.<br />
+<br />
+Later in the process, say four years into a project, you probably need to reorganize and relabel your buckets. I actually used to have buckets that were roughly "mechanics", "characters", and "world building". But I failed to assign priority to those buckets, and when it came to crunch time (e.g. a convention is coming up and 'oh shit' I need a fully playable game), I was always in a rush. Recently, I've been splitting up my "book" document into submodule documents, picking only the highest priority documents to work on, and getting those as done as much as I can before moving on. This has kept my scope of work small enough to tackle but broad enough to be flexible.<br />
+<br />
+Over the holidays I've pumped out a new version of my pre-generated characters, made critical tweaks to my rune and weapon systems, and even reworked my list of character quirks, which has been long overdue; all because I scheduled these tasks in the now ulta-important category of "character creation". My goal is to get an actual weekly game going sometime soon, and this is the first step of that goal.<br />
+<br />
+Prioritizing in big buckets has helped keep me motivated on what's important. While it may or may not apply to all of life's scheduling challenges, it certainly helps in game design. Just don't spend so much time prioritizing that you never get anything done!
