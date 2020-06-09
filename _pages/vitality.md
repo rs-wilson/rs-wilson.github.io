@@ -39,7 +39,7 @@ Bonus: working out helps you cope with stress, sleep better, and more thoroughly
 We have two simple goals: take in less, and take in only what is right.
 
 [The Right Diet](/blog/vitality/the-right-diet)  
-[Proper Proportions](/blog/vitality/proper-proporations)  
+[Proper Proportions](/blog/vitality/proper-proportions)  
 [Macronutrients](/blog/vitality/macronutrients)  
 [Sugar](/blog/vitality/sugar)  
 
