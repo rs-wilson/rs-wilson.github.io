@@ -2,7 +2,7 @@
 title:  "Priority Scheduling: Big Buckets"
 date:   2018-01-08 00:00:01
 categories: game-design
-tags: proactive progress
+tags: proactive
 ---
 
 When you actively seek out to do the dishes instead of sitting down to work on your game, you know you've lost a little bit of something. But that something isn't necessarily drive or dedication. Instead, you might just be suffering from a lack of prioritization.<br />

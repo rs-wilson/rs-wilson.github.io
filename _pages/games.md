@@ -37,10 +37,7 @@ This game was completed as part of the 200-word RPG challenge. It was a ton of f
 ### [South of West](https://docs.google.com/document/d/1LBfqDMV0RJDw3J1FSjEvdijDj-whofiFYyjLwfoVwfk/)
 Be a Bardito, Salsarer, Sour Cream Slinger, or any of the other 5 playbooks you'll find in SoW, and survive the chaos that always seems to seep into the queso at _Adjacent to the Border_!
 
-SoW is a _West of Loathing_ inspired RPG that hacks the popular __PbtA__ engine to create a slapstick comedy adventure about food, food fights, and food puns. It is best for slightly longer one-shot style games, able to handle you as long as you can handle it!
+SoW is a _West of Loathing_ inspired RPG that hacks the popular __PbtA__ engine to create a slapstick comedy adventure about food, food fights, and food puns. It is best for shorter, one-shot style games, able to handle you as long as you can handle it!
 
 ### [Hostargo](https://docs.google.com/document/d/1wq_7NfL8TqmlU-XkRmGhMqxeM1OJgu1plZb5UEipLGg/)
 My white whale project of many years, I have poured my best ideas and hardest effort into forging the best TTRPG I can. And it's not finished. But, feel free to check out what I have, and follow me on our [blog](/blog) as I explore the last legs of this epic journey.
-
-## Design Musings
-I have been designing games as a hobbiest for over two decades. I've tried to record some of my best thoughts over at my [blog](/blog/categories/#game-design)!

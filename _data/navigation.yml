@@ -1,9 +1,11 @@
 main:
   - title: "Games"
     url: "/games"
+  - title: "Game Design"
+    url: "/game-design"
   - title: "Vitality"
     url: "/vitality"
   - title: "Blog"
-    url: "/blog"
+    url: "/blog/tags"
   - title: "About"
     url: "/about"

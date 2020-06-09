@@ -5,7 +5,7 @@ categories: game-design
 tags: rpg design mechanics equipment
 ---
 <div style="text-align: justify;">
-In my <a href="http://mysteriouslever.blogspot.com/2016/02/armor-vs-padding.html" target="_blank">last post about armor</a>, I discussed the possibility of a system where we introduce different types of attack damage, and therefore different types of armor. &nbsp;This worked in my mind just fine for the players, but once it came to NPCs and monsters, whom I want to generate and track with ease, it quickly became too complicated. &nbsp;So we're back to the drawing board.</div>
+In my <a href="/blog/game-design/armor-vs-padding/" target="_blank">last post about armor</a>, I discussed the possibility of a system where we introduce different types of attack damage, and therefore different types of armor. &nbsp;This worked in my mind just fine for the players, but once it came to NPCs and monsters, whom I want to generate and track with ease, it quickly became too complicated. &nbsp;So we're back to the drawing board.</div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
