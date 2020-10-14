@@ -13,7 +13,7 @@ Please check out what I have and feel free to print, play, share, and comment!
 
 ### [Archdruid](/games/archdruid)
 
-Archdruid is a competitive puzzle/handbuilding game for 2-4 players. It takes 5 minutes to set up, 10 minutes to learn, and about an hour to play. It's ramping complexity will interest the mid-hardcore gamer crowd.
+Archdruid is a competitive puzzle/handbuilding game for 2-4 players. It takes 5 minutes to set up, 10 minutes to learn, and about an hour to play. Its ramping complexity will interest the mid-hardcore gamer crowd.
 
 Check out my [4 minute video pitch](https://www.youtube.com/watch?v=qtcF7Iv1MqQ)!
 
