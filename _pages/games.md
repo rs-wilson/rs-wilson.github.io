@@ -40,4 +40,6 @@ Be a Bardito, Salsarer, Sour Cream Slinger, or any of the other 5 playbooks you'
 SoW is a _West of Loathing_ inspired RPG that hacks the popular __PbtA__ engine to create a slapstick comedy adventure about food, food fights, and food puns. It is best for shorter, one-shot style games, able to handle you as long as you can handle it!
 
 ### [Hostargo](https://docs.google.com/document/d/1wq_7NfL8TqmlU-XkRmGhMqxeM1OJgu1plZb5UEipLGg/)
+Hostargo is a tabletop-top role playing game about badass officers of the law, enforcing order in an overcrowded city-state where wealth and power beyond imagination is being mined from a lonely mountain. One wrong move could blow the town to bits: either from the volatile magical energy stored beneath the mountain, or from a frustrated populace ready to riot.
+
 My white whale project of many years, I have poured my best ideas and hardest effort into forging the best TTRPG I can. And it's not finished. But, feel free to check out what I have, and follow me on our [blog](/blog) as I explore the last legs of this epic journey.
