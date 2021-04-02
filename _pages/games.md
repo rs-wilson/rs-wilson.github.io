@@ -43,3 +43,5 @@ SoW is a _West of Loathing_ inspired RPG that hacks the popular __PbtA__ engine 
 Hostargo is a weird-tech western; a tabletop-top role playing game about badass officers of the law, enforcing order in an overcrowded city-state where wealth and power beyond imagination is being mined from a lonely mountain. One wrong move could blow the town to bits: either from the volatile magical energy stored beneath the mountain, or from a frustrated populace ready to riot.
 
 My white whale project of many years, I have poured my best ideas and hardest effort into forging the best TTRPG I can. And it's not finished. But, feel free to check out what I have, and follow me on our [blog](/blog) as I explore the last legs of this epic journey.
+
+Check out the [character sheet](https://drive.google.com/file/d/1cotJLQPo1BXnrRp0cy6KGDkgnvELGzGQ/view?usp=sharing)!
