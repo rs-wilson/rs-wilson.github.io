@@ -1,12 +1,12 @@
 ---
-title: "Downloads"
-permalink: /downloads
+title: "Hostargo Downloads"
+permalink: /hostargo/downloads
 class: wide
 toc: false
 author_profile: false
 ---
 
-<a href="https://docs.google.com/document/d/1z9dpf9E3vynMMjPOXXD7JjpYV45YVwGzSdCwFqY9f3Q"><img src="/assets/images/hostargo_logo.png" alt="Hostargo Logo" width="200"/></a>
+<img src="/assets/images/hostargo_logo.png" alt="Hostargo Logo" width="200"/>
 
 <a href="https://drive.google.com/file/d/1cotJLQPo1BXnrRp0cy6KGDkgnvELGzGQ/view?usp=sharing">Hostargo Character Sheet</a><br/><a href="https://drive.google.com/file/d/1ZdzMfU7kxe-HW1VmFCHD78Iaq-Y4rhrA/view?usp=sharing">Hostargo Enemy Worksheet</a>
 
