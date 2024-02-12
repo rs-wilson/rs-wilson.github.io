@@ -17,7 +17,7 @@ I have spent a huge chunk of my game design studies focusing on tabletop RPGs. B
 ### Hostargo 
 is a weird-tech western; a tabletop-top role playing game about badass officers of the law, enforcing order in an overcrowded city-state where wealth and power beyond imagination is being mined from a lonely mountain. One wrong move could blow the town to bits: either from the volatile magical energy stored beneath the mountain, or from a frustrated populace ready to riot.
 
-My pet project of 10 years, I can finally say that Hostargo is complete. You can get the beautiful, full color and fully illustrated 226 page book over at [https://www.drivethrurpg.com/product/437388/Hostargo](https://www.drivethrurpg.com/product/437388/Hostargo)! If you are able to, a review goes a long way to supporting me, and I would greatly appreciate it! Thank you!
+My pet project of 10 years, I can finally say that Hostargo is complete. You can get the beautiful, full color and fully illustrated 226 page book over at [https://www.drivethrurpg.com/product/437388/Hostargo](https://www.drivethrurpg.com/product/437388/Hostargo?affiliate_id=625871)! If you are able to, a review goes a long way to supporting me, and I would greatly appreciate it! Thank you!
 
 You can also check out the [Hostargo Downloads](/hostargo/downloads) if you want a glimpse into the mechanics of the game.
 
