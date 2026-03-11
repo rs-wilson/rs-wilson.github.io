@@ -31,6 +31,12 @@ A hectic, one-act style RPG about a group of combining-robot pilots that are for
 
 This game was completed as part of the 200-word RPG challenge. It was a ton of fun to make, a challenge to slim & trim, and absolutely worth the half hour or so it takes to play!
 
+### [Under Sand](/games/under-sand)
+
+A survival-focused TTRPG about Delvers descending into the tunnels, caverns, and buried ruins beneath a scorched world. Manage your air, your gear, and your nerve as you go deeper than anyone has gone before.
+
+*Under Sand* is currently in early development — rules and playtests in progress.
+
 ## Tabletop Prototypes
 
 I am always tinkering with new game ideas, and would love feedback on my current projects!<br>
